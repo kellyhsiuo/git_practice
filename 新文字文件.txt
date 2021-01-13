@@ -1,0 +1,11 @@
+git add kelly.txt
+git commit kelly.txt
+git init
+mkdir new_git 建立資料夾
+git log 看檔案室的檔案
+git status 看現在狀態
+:wq 回上頁
+git commit -a -m "second commit" -a 的意思是 -m "" 給他便利貼，標註我們改了什麼
+git branch 主幹或是分支 同時做事的時候用
+git checkout -b kelly 建立分支
+git branch 檢查分支
